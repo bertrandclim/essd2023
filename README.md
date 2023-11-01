@@ -5,10 +5,10 @@ Plotting code for figures in paper "A Global Gridded Dataset for Cloud Vertical 
 Repository contains plotting code and data files. More information is stored in these files than is shown in figues (e.g. timeseries vs all-time means), so there is some opportunity to adjust plots to explore (especially the validation of the dataset) in more detail.
 
 ## setup
-Download repository
-```git clone https://github.com/bertrandclim/essd2023```
-Install dependencies
-```conda install -c conda-forge jupyter-lab matplotlib numpy xarray cartopy cmcrameri scipy```
-Launch Jupyter Lab
-```jupyter-lab```
-Open `9-9_ESSD-figs-export_R2R_oct26.ipynb`. Click `kernel -> run all cells`.
+1. Download repository
+    ```git clone https://github.com/bertrandclim/essd2023```
+2. Install dependencies
+    ```conda install -c conda-forge jupyter-lab matplotlib numpy xarray cartopy cmcrameri scipy```
+3. Launch Jupyter Lab
+    ```jupyter-lab```
+4. Open `9-9_ESSD-figs-export_R2R_oct26.ipynb`. Click `kernel -> run all cells`.
