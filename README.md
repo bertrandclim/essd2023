@@ -6,9 +6,15 @@ Repository contains plotting code and data files. More information is stored in 
 
 ## setup
 1. Download repository
-    ```git clone https://github.com/bertrandclim/essd2023```
+```
+$ git clone https://github.com/bertrandclim/essd2023
+```
 2. Install dependencies
-    ```conda install -c conda-forge jupyter-lab matplotlib numpy xarray cartopy cmcrameri scipy```
-3. Launch Jupyter Lab
-    ```jupyter-lab```
+```
+$ conda install -c conda-forge jupyter-lab matplotlib numpy xarray cartopy cmcrameri scipy
+```
+3. Launch Jupyter Lab (or Jupyter notebook)
+```
+$ jupyter-lab
+```
 4. Open `9-9_ESSD-figs-export_R2R_oct26.ipynb`. Click `kernel -> run all cells`.
