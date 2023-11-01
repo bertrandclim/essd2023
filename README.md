@@ -19,4 +19,4 @@ $ conda install -c conda-forge jupyter-lab matplotlib numpy xarray cartopy cmcra
 ```
 $ jupyter-lab
 ```
-4. Open `9-9_ESSD-figs-export_R2R_oct26.ipynb`. Click `kernel -> run all cells`.
+4. Open `9-9_ESSD-figs-export_R2R_oct26.ipynb`. Click `run -> run all cells`.
