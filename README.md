@@ -2,7 +2,9 @@
 
 Plotting code for figures in paper "A Global Gridded Dataset for Cloud Vertical Structure from Combined CloudSat and CALIPSO Observations" in Earth System Science Data, 2023.
 
-Repository contains plotting code and data files. More information is stored in these files than is shown in figues (e.g. timeseries vs all-time means), so there is some opportunity to adjust plots to explore (especially the validation of the dataset) in more detail.
+Repository contains plotting code and data files. More information is stored in these files than is shown in figues (e.g. timeseries vs all-time means), so there is some potential for adjusting plots to explore (especially the validation of the dataset) the data in more detail.
+
+The data product is available for download on [zenodo](https://zenodo.org/records/8057791), and code examples for working with the data product are available at [https://github.com/bertrandclim/3S-GEOPROF-COMB](https://github.com/bertrandclim/3S-GEOPROF-COMB).
 
 ## setup
 1. Download repository
