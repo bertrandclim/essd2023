@@ -13,7 +13,7 @@ git clone https://github.com/bertrandclim/essd2023
 ```
 2. Install dependencies
 ```bash
-conda install -c conda-forge jupyter-lab matplotlib numpy xarray cartopy cmcrameri scipy
+conda install -c conda-forge jupyterlab matplotlib numpy xarray cartopy cmcrameri scipy
 ```
 3. Launch Jupyter Lab (or Jupyter notebook)
 ```bash
