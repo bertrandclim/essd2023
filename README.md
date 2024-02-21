@@ -20,7 +20,7 @@ git clone https://github.com/bertrandclim/essd2023
 ```
 2. Create environment
 ```bash
-conda env create --prefix essd2023 --file ./essd2023/environment.yml
+conda env create -f ./essd2023/environment.yml
 ```
 3. Launch environment
 ```bash
