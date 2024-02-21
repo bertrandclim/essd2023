@@ -8,7 +8,7 @@ Repository contains interactive Jupyter notebook for plotting and data files. Mo
 The data product is available for download on [zenodo](https://zenodo.org/records/8057791), and code examples for working with the data product are available [here](https://github.com/bertrandclim/3S-GEOPROF-COMB).
 
 ## setup
-### on Binder
+### on binder
 1. Click the Binder badge to use the notebook remotely in browser. Note it can take a while to spin up if nobody has launched it recently (~20 minutes from testing).
 
 ### on local machine
