@@ -9,3 +9,4 @@ dependencies:
   - pandas=2.1.1
   - cartopy=0.22.0
   - cmcrameri=1.7
+  - netcdf4=1.6.4
