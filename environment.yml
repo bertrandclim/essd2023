@@ -1,3 +1,4 @@
+name: essd2023
 channels:
   - conda-forge
 dependencies:
