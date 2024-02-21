@@ -1,5 +1,7 @@
 # essd2023
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bertrandclim/essd2023/HEAD?labpath=9-9_ESSD-figs-export_R2R_oct26.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bertrandclim/essd2023/HEAD?labpath=9-9_ESSD-figs-export_R2R_oct26.ipynb) [![DOI](https://zenodo.org/badge/656414544.svg)](https://zenodo.org/doi/10.5281/zenodo.10689795)
+
+
 
 Plotting code for figures in paper "A Global Gridded Dataset for Cloud Vertical Structure from Combined CloudSat and CALIPSO Observations" in Earth System Science Data, 2023.
 
