@@ -9,7 +9,7 @@ The data product is available for download on [zenodo](https://zenodo.org/record
 
 ## setup
 ### on binder
-1. Click the Binder badge to use the notebook remotely in browser. Note it can take a while to spin up if nobody has launched it recently (~20 minutes from testing).
+1. Click the Binder badge at the top of this file to use the notebook remotely in browser. Note it can take a while to spin up if nobody has launched it recently (up to 30 minutes during testing).
 
 ### on local machine
 1. Download repository
